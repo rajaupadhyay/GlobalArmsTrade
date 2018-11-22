@@ -1,0 +1,245 @@
+,buyercod,sellercod,desig2,desc,nrdel,buyer,seller,tivunit,tivorder,tivdel,longSource,latSource,longDest,latDest
+0,IRE,CAN,DHC-1 Chipmunk,Trainer aircraft,8,Ireland,Canada,0.12,0.96,0.96,-106.346771,56.130366,-8.24389,53.41291
+1,KOS,CAN,T-6 Texan,Trainer aircraft,10,South Korea,Canada,0.32,3.2,3.2,-106.346771,56.130366,127.766922,35.907757
+2,LEB,CAN,DHC-1 Chipmunk,Trainer aircraft,3,Lebanon,Canada,0.12,0.36,0.36,-106.346771,56.130366,35.862285,33.854721
+3,PER,CAN,DHC-2 Beaver,Light aircraft,4,Peru,Canada,0.38,1.52,1.52,-106.346771,56.130366,-75.015152,-9.189967
+4,POR,CAN,Bangor,Minesweeper,1,Portugal,Canada,7.2,7.2,7.2,-106.346771,56.130366,-8.224454,39.399872
+5,THA,CAN,DHC-1 Chipmunk,Trainer aircraft,18,Thailand,Canada,0.12,2.16,2.16,-106.346771,56.130366,100.992541,15.870032
+6,USA,CAN,DHC-2 Beaver,Light aircraft,900,United States,Canada,0.38,342.0,342.0,-106.346771,56.130366,-95.712891,37.09024
+7,EGY,CZE,Bu-181 Bestmann,Trainer aircraft,150,Egypt,Czechoslovakia,0.1,15.0,15.0,-12.843791,-24.545272,30.802498,26.820553
+8,ETH,CZE,AH-IV-Hb,Light tank,20,Ethiopia,Czechoslovakia,0.08,1.6,1.6,-12.843791,-24.545272,40.489673,9.145
+9,GDR,CZE,Fi-156 Storch,Light aircraft,10,East Germany (GDR),Czechoslovakia,0.048,0.48,0.48,-12.843791,-24.545272,65.865034,-25.559085
+10,SWI,CZE,PzJ-38(t) Hetzer,Self-propelled gun,90,Switzerland,Czechoslovakia,0.5,45.0,45.0,-12.843791,-24.545272,8.227512,46.818188
+11,ISR,FRA,M-3/M-5 Half-track,APC,100,Israel,France,0.06,6.0,6.0,2.213749,46.227638,34.851612,31.046051
+12,SYR,FRA,Ju-52/3m,Transport aircraft,7,Syria,France,0.684,4.788,4.788,2.213749,46.227638,38.996815,34.802075
+13,ARG,ITA,G-46,Trainer aircraft,15,Argentina,Italy,0.32,4.8,4.8,12.56738,41.87194,-63.616672,-38.416097
+14,EGY,ITA,C-205V Veltro,Fighter aircraft,12,Egypt,Italy,1.94,23.28,23.28,12.56738,41.87194,30.802498,26.820553
+15,EGY,ITA,C-205V Veltro,Fighter aircraft,18,Egypt,Italy,1.94,34.92,34.92,12.56738,41.87194,30.802498,26.820553
+16,LEB,ITA,SM-79 Sparviero,Transport aircraft,3,Lebanon,Italy,1.65,4.95,4.95,12.56738,41.87194,35.862285,33.854721
+17,SYR,ITA,G-46,Trainer aircraft,20,Syria,Italy,0.32,6.4,6.4,12.56738,41.87194,38.996815,34.802075
+18,SYR,ITA,G-55A,Fighter aircraft,30,Syria,Italy,1.6,48.0,48.0,12.56738,41.87194,38.996815,34.802075
+19,USR,ITA,Soldati,Destroyer,1,Soviet Union,Italy,36.0,36.0,36.0,12.56738,41.87194,65.865034,-25.559085
+20,INS,NET,Alkai,Patrol craft,9,Indonesia,Netherlands,4.53,40.77,40.77,5.291266,52.132633,113.921327,-0.789275
+21,INS,NET,Auster AOP,Light aircraft,22,Indonesia,Netherlands,0.028,0.616,0.616,5.291266,52.132633,113.921327,-0.789275
+22,INS,NET,B-25 Mitchell,Bomber aircraft,42,Indonesia,Netherlands,2.0,84.0,84.0,5.291266,52.132633,113.921327,-0.789275
+23,INS,NET,Bathurst,Minesweeper/corvette,2,Indonesia,Netherlands,9.0,18.0,18.0,5.291266,52.132633,113.921327,-0.789275
+24,INS,NET,C-60A Lodestar,Transport aircraft,10,Indonesia,Netherlands,0.528,5.28,5.28,5.291266,52.132633,113.921327,-0.789275
+25,INS,NET,Cub/L-4 Grasshopper,Light aircraft,63,Indonesia,Netherlands,0.02,1.26,1.26,5.291266,52.132633,113.921327,-0.789275
+26,INS,NET,DC-3/C-47 Skytrain,Transport aircraft,34,Indonesia,Netherlands,1.0,34.0,34.0,5.291266,52.132633,113.921327,-0.789275
+27,INS,NET,LCI(L),Landing craft,5,Indonesia,Netherlands,4.32,21.6,21.6,5.291266,52.132633,113.921327,-0.789275
+28,INS,NET,P-51D Mustang,Fighter aircraft,26,Indonesia,Netherlands,0.8,20.8,20.8,5.291266,52.132633,113.921327,-0.789275
+29,INS,NET,PBY-5A Catalina,MP aircraft,8,Indonesia,Netherlands,1.24,9.92,9.92,5.291266,52.132633,113.921327,-0.789275
+30,INS,NET,T-6 Texan,Trainer aircraft,16,Indonesia,Netherlands,0.128,2.048,2.048,5.291266,52.132633,113.921327,-0.789275
+31,ITA,NET,DC-3/C-47 Skytrain,Transport aircraft,4,Italy,Netherlands,1.0,4.0,4.0,5.291266,52.132633,12.56738,41.87194
+32,POR,NOR,Ju-52/3m,Transport aircraft,2,Portugal,Norway,0.684,1.368,1.368,8.468946,60.472024,-8.224454,39.399872
+33,SWI,SWE,M/40 105mm,Towed gun,234,Switzerland,Sweden,0.45,105.3,105.3,18.643501,60.128161,8.227512,46.818188
+34,AUS,UK,Battle,Destroyer,2,Australia,United Kingdom,117.5,235.0,235.0,-3.435973,55.378051,133.775136,-25.274398
+35,AUS,UK,Lincoln,Bomber aircraft,29,Australia,United Kingdom,4.9,142.1,142.1,-3.435973,55.378051,133.775136,-25.274398
+36,AUS,UK,Meteor,Fighter aircraft,99,Australia,United Kingdom,3.0,297.0,297.0,-3.435973,55.378051,133.775136,-25.274398
+37,AUS,UK,Sea Fury,Fighter aircraft,24,Australia,United Kingdom,2.0,48.0,48.0,-3.435973,55.378051,133.775136,-25.274398
+38,AUS,UK,Vampire FB-5,Fighter aircraft,70,Australia,United Kingdom,3.2,224.0,224.0,-3.435973,55.378051,133.775136,-25.274398
+39,BEL,UK,Dove,Light transport ac,2,Belgium,United Kingdom,0.6,1.2,1.2,-3.435973,55.378051,4.469936,50.503887
+40,BEL,UK,Kamina,Transport ship,1,Belgium,United Kingdom,9.0,9.0,9.0,-3.435973,55.378051,4.469936,50.503887
+41,BEL,UK,Meteor,Fighter aircraft,38,Belgium,United Kingdom,3.0,114.0,114.0,-3.435973,55.378051,4.469936,50.503887
+42,BEL,UK,Meteor,Fighter aircraft,175,Belgium,United Kingdom,3.0,525.0,525.0,-3.435973,55.378051,4.469936,50.503887
+43,BEL,UK,Meteor,Fighter aircraft,23,Belgium,United Kingdom,3.0,69.0,69.0,-3.435973,55.378051,4.469936,50.503887
+44,CAN,UK,Nene,Turbojet,384,Canada,United Kingdom,0.5,192.0,192.0,-3.435973,55.378051,-106.346771,56.130366
+45,DEN,UK,DHC-1 Chipmunk,Trainer aircraft,10,Denmark,United Kingdom,0.12,3.24,1.2,-3.435973,55.378051,9.501785,56.26392
+46,DEN,UK,Meteor,Fighter aircraft,20,Denmark,United Kingdom,3.0,60.0,60.0,-3.435973,55.378051,9.501785,56.26392
+47,DEN,UK,Meteor,Fighter aircraft,6,Denmark,United Kingdom,3.0,18.0,18.0,-3.435973,55.378051,9.501785,56.26392
+48,EGY,UK,Hunt,Frigate,1,Egypt,United Kingdom,36.3066,36.3066,36.3066,-3.435973,55.378051,30.802498,26.820553
+49,EGY,UK,Meteor,Fighter aircraft,16,Egypt,United Kingdom,3.0,48.0,48.0,-3.435973,55.378051,30.802498,26.820553
+50,EGY,UK,Sea Fury,Fighter aircraft,12,Egypt,United Kingdom,2.0,24.0,24.0,-3.435973,55.378051,30.802498,26.820553
+51,EGY,UK,Spitfire,Fighter aircraft,20,Egypt,United Kingdom,1.32,26.4,26.4,-3.435973,55.378051,30.802498,26.820553
+52,GRE,UK,M-3 Stuart,Light tank,40,Greece,United Kingdom,0.12,4.8,4.8,-3.435973,55.378051,21.824312,39.074208
+53,IND,UK,Dove,Light transport ac,20,India,United Kingdom,0.6,12.0,12.0,-3.435973,55.378051,78.96288,20.593684
+54,IND,UK,EWP,Destroyer,3,India,United Kingdom,36.8,110.4,110.4,-3.435973,55.378051,78.96288,20.593684
+55,IND,UK,FV-1611,APV,120,India,United Kingdom,0.04,4.8,4.8,-3.435973,55.378051,78.96288,20.593684
+56,IND,UK,Vampire FB-5,Fighter aircraft,333,India,United Kingdom,3.2,1065.6,1065.6,-3.435973,55.378051,78.96288,20.593684
+57,IND,UK,Vampire T-55,Trainer aircraft,62,India,United Kingdom,2.25,139.5,139.5,-3.435973,55.378051,78.96288,20.593684
+58,IRE,UK,Dove,Light transport ac,2,Ireland,United Kingdom,0.6,1.2,1.2,-3.435973,55.378051,-8.24389,53.41291
+59,ISR,UK,Cromwell,Tank,25,Israel,United Kingdom,0.336,8.4,8.4,-3.435973,55.378051,34.851612,31.046051
+60,ISR,UK,Flower,Corvette,2,Israel,United Kingdom,8.0,16.0,16.0,-3.435973,55.378051,34.851612,31.046051
+61,ISR,UK,M-3/M-5 Half-track,APC,100,Israel,United Kingdom,0.06,6.0,6.0,-3.435973,55.378051,34.851612,31.046051
+62,ISR,UK,Mosquito FB-6,Bomber aircraft,1,Israel,United Kingdom,2.0,2.0,2.0,-3.435973,55.378051,34.851612,31.046051
+63,ITA,UK,Vampire FB-5,Fighter aircraft,85,Italy,United Kingdom,3.2,272.0,272.0,-3.435973,55.378051,12.56738,41.87194
+64,JOR,UK,Auster AOP,Light aircraft,3,Jordan,United Kingdom,0.028,0.084,0.084,-3.435973,55.378051,36.238414,30.585164
+65,JOR,UK,Auster AOP,Light aircraft,2,Jordan,United Kingdom,0.028,0.056,0.056,-3.435973,55.378051,36.238414,30.585164
+66,JOR,UK,Autocrat,Light aircraft,3,Jordan,United Kingdom,0.12,0.36,0.36,-3.435973,55.378051,36.238414,30.585164
+67,MYA,UK,Consul,Light transport ac,5,Myanmar,United Kingdom,0.63,3.15,3.15,-3.435973,55.378051,65.865034,-25.559085
+68,MYA,UK,Oxford,Trainer aircraft,5,Myanmar,United Kingdom,0.16,0.8,0.8,-3.435973,55.378051,65.865034,-25.559085
+69,NET,UK,AMES Type-13,Height-finding radar,2,Netherlands,United Kingdom,3.0,6.0,6.0,-3.435973,55.378051,5.291266,52.132633
+70,NET,UK,AMES Type-14,Air search radar,2,Netherlands,United Kingdom,4.5,9.0,9.0,-3.435973,55.378051,5.291266,52.132633
+71,NET,UK,AMES Type-15,Air search radar,2,Netherlands,United Kingdom,3.0,6.0,6.0,-3.435973,55.378051,5.291266,52.132633
+72,NET,UK,Meteor,Fighter aircraft,190,Netherlands,United Kingdom,3.0,570.0,570.0,-3.435973,55.378051,5.291266,52.132633
+73,NOR,UK,Type-VIIC,Submarine,3,Norway,United Kingdom,8.0,24.0,24.0,-3.435973,55.378051,8.468946,60.472024
+74,NOR,UK,Type-XXIII,Submarine,1,Norway,United Kingdom,14.0,14.0,14.0,-3.435973,55.378051,8.468946,60.472024
+75,NOR,UK,Vampire FB-5,Fighter aircraft,36,Norway,United Kingdom,3.2,115.2,115.2,-3.435973,55.378051,8.468946,60.472024
+76,NZ,UK,Auster AOP,Light aircraft,6,New Zealand,United Kingdom,0.07,0.42,0.42,-3.435973,55.378051,174.885971,-40.900557
+77,NZ,UK,Bristol-170 Freighter,Transport aircraft,9,New Zealand,United Kingdom,4.38,39.42,39.42,-3.435973,55.378051,174.885971,-40.900557
+78,NZ,UK,Centurion-3,Tank,3,New Zealand,United Kingdom,1.35,4.05,4.05,-3.435973,55.378051,174.885971,-40.900557
+79,PAK,UK,Bristol-170 Freighter,Transport aircraft,75,Pakistan,United Kingdom,4.38,328.5,328.5,-3.435973,55.378051,69.345116,30.375321
+80,PAK,UK,Sea Fury,Fighter aircraft,90,Pakistan,United Kingdom,2.0,180.0,180.0,-3.435973,55.378051,69.345116,30.375321
+81,SA,UK,EWP,Destroyer,2,South Africa,United Kingdom,36.8,73.6,73.6,-3.435973,55.378051,22.937506,-30.559482
+82,SAU,UK,Anson,Trainer aircraft,2,Saudi Arabia,United Kingdom,0.16,0.32,0.32,-3.435973,55.378051,45.079162,23.885942
+83,SAU,UK,DH-82 Tiger Moth,Trainer aircraft,2,Saudi Arabia,United Kingdom,0.04,0.08,0.08,-3.435973,55.378051,45.079162,23.885942
+84,SRI,UK,ML 4.2inch,Mortar,5,Sri Lanka,United Kingdom,0.016,0.08,0.08,-3.435973,55.378051,80.771797,7.873054
+85,SRI,UK,Oxford,Trainer aircraft,2,Sri Lanka,United Kingdom,0.16,0.32,0.32,-3.435973,55.378051,80.771797,7.873054
+86,SWE,UK,Firefly TT-1,Target tow aircraft,2,Sweden,United Kingdom,0.792,1.584,1.584,-3.435973,55.378051,18.643501,60.128161
+87,SWE,UK,Ghost,Turbojet,661,Sweden,United Kingdom,0.75,495.75,495.75,-3.435973,55.378051,18.643501,60.128161
+88,SWE,UK,Vampire FB-5,Fighter aircraft,150,Sweden,United Kingdom,3.2,480.0,480.0,-3.435973,55.378051,18.643501,60.128161
+89,SWI,UK,Vampire FB-5,Fighter aircraft,143,Switzerland,United Kingdom,3.2,457.6,457.6,-3.435973,55.378051,8.227512,46.818188
+90,SYR,UK,Merlin,Aircraft engine,30,Syria,United Kingdom,0.4,12.0,12.0,-3.435973,55.378051,38.996815,34.802075
+91,THA,UK,Firefly,FGA aircraft,12,Thailand,United Kingdom,0.8,9.6,9.6,-3.435973,55.378051,100.992541,15.870032
+92,THA,UK,Spitfire,Fighter aircraft,30,Thailand,United Kingdom,0.8,24.0,24.0,-3.435973,55.378051,100.992541,15.870032
+93,USA,UK,Nene,Turbojet,600,United States,United Kingdom,0.5,300.0,300.0,-3.435973,55.378051,-95.712891,37.09024
+94,USA,UK,RB-44 Tay,Turbojet,4108,United States,United Kingdom,1.0,4108.0,4108.0,-3.435973,55.378051,-95.712891,37.09024
+95,VEN,UK,Vampire FB-5,Fighter aircraft,19,Venezuela,United Kingdom,3.2,60.8,60.8,-3.435973,55.378051,-66.58973,6.42375
+96,ZIM,UK,T-17E1 Staghound,Armoured car,10,Zimbabwe,United Kingdom,0.096,0.96,0.96,-3.435973,55.378051,29.154857,-19.015438
+97,ARG,USA,LST-1,Landing ship,14,Argentina,United States,9.448,132.272,132.272,-95.712891,37.09024,-63.616672,-38.416097
+98,ARG,USA,M-3/M-5 Half-track,APC,100,Argentina,United States,0.06,6.0,6.0,-95.712891,37.09024,-63.616672,-38.416097
+99,ARG,USA,M-7 105mm,Self-propelled gun,6,Argentina,United States,0.3,1.8,1.8,-95.712891,37.09024,-63.616672,-38.416097
+100,ARG,USA,Twin Wasp,Radial engine,50,Argentina,United States,0.3,15.0,15.0,-95.712891,37.09024,-63.616672,-38.416097
+101,BEL,USA,DC-3/C-47 Skytrain,Transport aircraft,7,Belgium,United States,1.0,7.0,7.0,-95.712891,37.09024,4.469936,50.503887
+102,BEL,USA,DC-4/C-54,Transport aircraft,2,Belgium,United States,2.5,5.0,5.0,-95.712891,37.09024,4.469936,50.503887
+103,BEL,USA,M-10,Tank,36,Belgium,United States,0.32,11.52,11.52,-95.712891,37.09024,4.469936,50.503887
+104,BEL,USA,M-3/M-5 Half-track,APC,50,Belgium,United States,0.06,3.0,3.0,-95.712891,37.09024,4.469936,50.503887
+105,BEL,USA,M-4 Sherman,Tank,50,Belgium,United States,0.336,16.8,16.8,-95.712891,37.09024,4.469936,50.503887
+106,CAN,USA,F-86F Sabre,Fighter aircraft,1100,Canada,United States,3.5,3850.0,3850.0,-95.712891,37.09024,-106.346771,56.130366
+107,CAN,USA,T-33A Shooting Star,Trainer aircraft,30,Canada,United States,2.5,75.0,75.0,-95.712891,37.09024,-106.346771,56.130366
+108,CAN,USA,T-33A T-Bird,Trainer aircraft,384,Canada,United States,1.15,441.6,441.6,-95.712891,37.09024,-106.346771,56.130366
+109,CAN,USA,TBM-3S Avenger,ASW aircraft,69,Canada,United States,0.92,63.48,63.48,-95.712891,37.09024,-106.346771,56.130366
+110,CHE,USA,T-6 Texan,Trainer aircraft,10,Chile,United States,0.128,1.28,1.28,-95.712891,37.09024,-71.542969,-35.675147
+111,COL,USA,P-47D Thunderbolt,FGA aircraft,4,Colombia,United States,0.84,3.36,3.36,-95.712891,37.09024,-74.297333,4.570868
+112,DEN,USA,M-101A1 105mm,Towed gun,186,Denmark,United States,0.18,33.48,33.48,-95.712891,37.09024,9.501785,56.26392
+113,DOM,USA,M-3A1 Scout Car,APV,20,Dominican Republic,United States,0.044,0.88,0.88,-95.712891,37.09024,-70.162651,18.735693
+114,DOM,USA,M-3/M-5 Half-track,APC,25,Dominican Republic,United States,0.06,1.5,1.5,-95.712891,37.09024,-70.162651,18.735693
+115,EGY,USA,LST-1,Landing ship,1,Egypt,United States,9.448,9.448,9.448,-95.712891,37.09024,30.802498,26.820553
+116,EGY,USA,YMS,Minesweeper,4,Egypt,United States,3.6,14.4,14.4,-95.712891,37.09024,30.802498,26.820553
+117,FRA,USA,Bell-47/OH-13,Light helicopter,8,France,United States,0.24,1.92,1.92,-95.712891,37.09024,2.213749,46.227638
+118,FRA,USA,Cannon,Frigate,8,France,United States,13.54,108.32,108.32,-95.712891,37.09024,2.213749,46.227638
+119,FRA,USA,F6F Hellcat,Fighter aircraft,40,France,United States,0.8,32.0,32.0,-95.712891,37.09024,2.213749,46.227638
+120,FRA,USA,Hiller-12/OH-23 Raven,Light helicopter,2,France,United States,0.24,0.48,0.48,-95.712891,37.09024,2.213749,46.227638
+121,FRA,USA,LST-1,Landing ship,6,France,United States,9.448,56.688,56.688,-95.712891,37.09024,2.213749,46.227638
+122,FRA,USA,PB4Y-2 Privateer,Bomber/MP aircraft,22,France,United States,3.0,66.0,66.0,-95.712891,37.09024,2.213749,46.227638
+123,GRE,USA,DC-3/C-47 Skytrain,Transport aircraft,1,Greece,United States,1.0,1.0,1.0,-95.712891,37.09024,21.824312,39.074208
+124,GRE,USA,M-101A1 105mm,Towed gun,317,Greece,United States,0.18,57.06,57.06,-95.712891,37.09024,21.824312,39.074208
+125,GRE,USA,M-114 155mm,Towed gun,270,Greece,United States,0.2,54.0,54.0,-95.712891,37.09024,21.824312,39.074208
+126,GRE,USA,M-20,Reconnaissance AV,20,Greece,United States,0.06,1.2,1.2,-95.712891,37.09024,21.824312,39.074208
+127,GRE,USA,M-24 Chaffee,Light tank,206,Greece,United States,0.3,61.8,61.8,-95.712891,37.09024,21.824312,39.074208
+128,GRE,USA,M-8 Greyhound,Armoured car,20,Greece,United States,0.076,1.52,1.52,-95.712891,37.09024,21.824312,39.074208
+129,GRE,USA,SB-2C Helldiver,Bomber aircraft,24,Greece,United States,0.76,18.24,18.24,-95.712891,37.09024,21.824312,39.074208
+130,HAI,USA,DC-3/C-47 Skytrain,Transport aircraft,3,Haiti,United States,1.0,3.0,3.0,-95.712891,37.09024,-72.285215,18.971187
+131,HAI,USA,M-5 Stuart,Light tank,9,Haiti,United States,0.12,1.08,1.08,-95.712891,37.09024,-72.285215,18.971187
+132,INS,USA,Hiller-12/OH-23 Raven,Light helicopter,10,Indonesia,United States,0.24,2.4,2.4,-95.712891,37.09024,113.921327,-0.789275
+133,IRA,USA,Beech-18/C-45,Light transport ac,6,Iran,United States,0.16,0.96,0.96,-95.712891,37.09024,53.688046,32.427908
+134,IRA,USA,Cub/L-4 Grasshopper,Light aircraft,10,Iran,United States,0.02,0.2,0.2,-95.712891,37.09024,53.688046,32.427908
+135,IRA,USA,T-6 Texan,Trainer aircraft,74,Iran,United States,0.128,9.472,9.472,-95.712891,37.09024,53.688046,32.427908
+136,ISR,USA,PT-17 Kaydet,Trainer aircraft,51,Israel,United States,0.036,1.836,1.836,-95.712891,37.09024,34.851612,31.046051
+137,ISR,USA,T-6 Texan,Trainer aircraft,11,Israel,United States,0.128,1.408,1.408,-95.712891,37.09024,34.851612,31.046051
+138,ITA,USA,M-4 Sherman,Tank,50,Italy,United States,0.336,16.8,16.8,-95.712891,37.09024,12.56738,41.87194
+139,ITA,USA,P-47D Thunderbolt,FGA aircraft,75,Italy,United States,0.84,63.0,63.0,-95.712891,37.09024,12.56738,41.87194
+140,ITA,USA,P-51D Mustang,Fighter aircraft,100,Italy,United States,0.8,80.0,80.0,-95.712891,37.09024,12.56738,41.87194
+141,ITA,USA,SB-2C Helldiver,Bomber aircraft,36,Italy,United States,0.76,27.36,27.36,-95.712891,37.09024,12.56738,41.87194
+142,KOS,USA,DC-3/C-47 Skytrain,Transport aircraft,15,South Korea,United States,1.0,15.0,15.0,-95.712891,37.09024,127.766922,35.907757
+143,KOS,USA,M-10,Tank,70,South Korea,United States,0.32,22.4,22.4,-95.712891,37.09024,127.766922,35.907757
+144,KOS,USA,M-101A1 105mm,Towed gun,2000,South Korea,United States,0.45,900.0,900.0,-95.712891,37.09024,127.766922,35.907757
+145,KOS,USA,M-4 Sherman,Tank,100,South Korea,United States,0.336,33.6,33.6,-95.712891,37.09024,127.766922,35.907757
+146,KOS,USA,M-8 Greyhound,Armoured car,200,South Korea,United States,0.076,15.2,15.2,-95.712891,37.09024,127.766922,35.907757
+147,KOS,USA,P-51D Mustang,Fighter aircraft,125,South Korea,United States,0.8,100.0,100.0,-95.712891,37.09024,127.766922,35.907757
+148,KOS,USA,PC-461,Patrol craft,4,South Korea,United States,5.0,20.0,20.0,-95.712891,37.09024,127.766922,35.907757
+149,KOS,USA,PC-461,Patrol craft,1,South Korea,United States,5.0,5.0,5.0,-95.712891,37.09024,127.766922,35.907757
+150,KOS,USA,Tacoma,Frigate,4,South Korea,United States,11.5,46.0,46.0,-95.712891,37.09024,127.766922,35.907757
+151,KOS,USA,YMS,Minesweeper,6,South Korea,United States,3.6,21.6,21.6,-95.712891,37.09024,127.766922,35.907757
+152,NET,USA,Cannon,Frigate,6,Netherlands,United States,13.54,81.24,81.24,-95.712891,37.09024,5.291266,52.132633
+153,NET,USA,M-115 203mm,Towed gun,40,Netherlands,United States,0.3,12.0,12.0,-95.712891,37.09024,5.291266,52.132633
+154,NOR,USA,DC-3/C-47 Skytrain,Transport aircraft,10,Norway,United States,1.0,10.0,10.0,-95.712891,37.09024,8.468946,60.472024
+155,NOR,USA,M-24 Chaffee,Light tank,100,Norway,United States,0.3,30.0,30.0,-95.712891,37.09024,8.468946,60.472024
+156,PAK,USA,M-32,ARV,10,Pakistan,United States,0.2,2.0,2.0,-95.712891,37.09024,69.345116,30.375321
+157,PAK,USA,M-4 Sherman,Tank,100,Pakistan,United States,0.336,33.6,33.6,-95.712891,37.09024,69.345116,30.375321
+158,PAR,USA,DC-3/C-47 Skytrain,Transport aircraft,5,Paraguay,United States,1.0,5.0,5.0,-95.712891,37.09024,-58.443832,-23.442503
+159,POR,USA,B-17G Fortress,Bomber aircraft,5,Portugal,United States,1.96,9.8,9.8,-95.712891,37.09024,-8.224454,39.399872
+160,SAL,USA,T-6 Texan,Trainer aircraft,4,El Salvador,United States,0.128,0.512,0.512,-95.712891,37.09024,-88.89653,13.794185
+161,SPA,USA,Mk-30 127mm,Naval gun,2,Spain,United States,0.3,0.6,0.6,-95.712891,37.09024,-3.74922,40.463667
+162,SYR,USA,Beech-18/C-45,Light transport ac,6,Syria,United States,0.4,2.4,2.4,-95.712891,37.09024,38.996815,34.802075
+163,THA,USA,DC-4/C-54,Transport aircraft,8,Thailand,United States,2.5,20.0,20.0,-95.712891,37.09024,100.992541,15.870032
+164,THA,USA,PC-461,Patrol craft,4,Thailand,United States,5.0,20.0,20.0,-95.712891,37.09024,100.992541,15.870032
+165,THA,USA,T-6 Texan,Trainer aircraft,63,Thailand,United States,0.128,8.064,8.064,-95.712891,37.09024,100.992541,15.870032
+166,THA,USA,YMS,Minesweeper,2,Thailand,United States,3.6,7.2,7.2,-95.712891,37.09024,100.992541,15.870032
+167,TUR,USA,Balao,Submarine,2,Turkey,United States,25.4958,50.9916,50.9916,-95.712891,37.09024,35.243322,38.963745
+168,TUR,USA,M-101A1 105mm,Towed gun,600,Turkey,United States,0.18,108.0,108.0,-95.712891,37.09024,35.243322,38.963745
+169,TUR,USA,M-114 155mm,Towed gun,517,Turkey,United States,0.2,103.4,103.4,-95.712891,37.09024,35.243322,38.963745
+170,TUR,USA,M-24 Chaffee,Light tank,50,Turkey,United States,0.3,15.0,15.0,-95.712891,37.09024,35.243322,38.963745
+171,TUR,USA,Penguin/ASR,Rescue ship,1,Turkey,United States,30.0,30.0,30.0,-95.712891,37.09024,35.243322,38.963745
+172,UK,USA,B-29 Superfortress,Bomber aircraft,87,United Kingdom,United States,3.6,313.2,313.2,-95.712891,37.09024,-3.435973,55.378051
+173,UK,USA,S-51/H-5F,Light helicopter,100,United Kingdom,United States,0.3,30.0,30.0,-95.712891,37.09024,-3.435973,55.378051
+174,URU,USA,B-25 Mitchell,Bomber aircraft,11,Uruguay,United States,2.0,22.0,22.0,-95.712891,37.09024,-55.765835,-32.522779
+175,URU,USA,C-46 Commando,Transport aircraft,10,Uruguay,United States,1.8,18.0,18.0,-95.712891,37.09024,-55.765835,-32.522779
+176,URU,USA,DC-3/C-47 Skytrain,Transport aircraft,5,Uruguay,United States,1.0,5.0,5.0,-95.712891,37.09024,-55.765835,-32.522779
+177,URU,USA,P-51D Mustang,Fighter aircraft,25,Uruguay,United States,0.8,20.0,20.0,-95.712891,37.09024,-55.765835,-32.522779
+178,URU,USA,TBF Avenger,Bomber aircraft,12,Uruguay,United States,0.84,10.08,10.08,-95.712891,37.09024,-55.765835,-32.522779
+179,YEN,USA,AT-17 Bobcat,Trainer aircraft,3,North Yemen,United States,0.12,0.36,0.36,-95.712891,37.09024,65.865034,-25.559085
+180,ALB,USR,PT,FAC,5,Albania,Soviet Union,2.8,14.0,14.0,-12.843791,-24.545272,20.168331,41.153332
+181,BUL,USR,BTR-152,APC,100,Bulgaria,Soviet Union,0.13,13.0,13.0,-12.843791,-24.545272,25.48583,42.733883
+182,BUL,USR,M-1943 160mm,Mortar,50,Bulgaria,Soviet Union,0.15,7.5,7.5,-12.843791,-24.545272,25.48583,42.733883
+183,BUL,USR,M-43 120mm,Mortar,350,Bulgaria,Soviet Union,0.05,17.5,17.5,-12.843791,-24.545272,25.48583,42.733883
+184,BUL,USR,T-34-85,Tank,599,Bulgaria,Soviet Union,0.38,227.62,227.62,-12.843791,-24.545272,25.48583,42.733883
+185,BUL,USR,Yak-23,Fighter aircraft,50,Bulgaria,Soviet Union,2.1,105.0,105.0,-12.843791,-24.545272,25.48583,42.733883
+186,CHI,USR,BM-13 132mm,Self-propelled MRL,600,China,Soviet Union,0.096,57.6,57.6,-12.843791,-24.545272,104.195397,35.86166
+187,CHI,USR,Il-10 Sturmovik,Ground attack ac,150,China,Soviet Union,1.8,270.0,270.0,-12.843791,-24.545272,104.195397,35.86166
+188,CHI,USR,IS-2,Tank,300,China,Soviet Union,0.5,150.0,150.0,-12.843791,-24.545272,104.195397,35.86166
+189,CHI,USR,La-11,Fighter aircraft,200,China,Soviet Union,2.0,400.0,400.0,-12.843791,-24.545272,104.195397,35.86166
+190,CHI,USR,La-9,Fighter aircraft,250,China,Soviet Union,0.76,190.0,190.0,-12.843791,-24.545272,104.195397,35.86166
+191,CHI,USR,Li-2T/Cab,Transport aircraft,50,China,Soviet Union,2.5,125.0,125.0,-12.843791,-24.545272,104.195397,35.86166
+192,CHI,USR,M-30 122mm,Towed gun,3000,China,Soviet Union,0.45,1350.0,1350.0,-12.843791,-24.545272,104.195397,35.86166
+193,CHI,USR,MiG-15,Fighter aircraft,750,China,Soviet Union,3.2,2400.0,2400.0,-12.843791,-24.545272,104.195397,35.86166
+194,CHI,USR,MiG-9,Fighter aircraft,372,China,Soviet Union,1.144,425.568,425.568,-12.843791,-24.545272,104.195397,35.86166
+195,CHI,USR,SU-100,Self-propelled gun,300,China,Soviet Union,1.0,300.0,300.0,-12.843791,-24.545272,104.195397,35.86166
+196,CHI,USR,SU-85,Self-propelled gun,300,China,Soviet Union,0.28,84.0,84.0,-12.843791,-24.545272,104.195397,35.86166
+197,CHI,USR,T-34-85,Tank,2500,China,Soviet Union,0.95,2375.0,2375.0,-12.843791,-24.545272,104.195397,35.86166
+198,CHI,USR,Tu-2S,Bomber aircraft,150,China,Soviet Union,2.0,300.0,300.0,-12.843791,-24.545272,104.195397,35.86166
+199,CHI,USR,Yak-11,Trainer aircraft,50,China,Soviet Union,0.32,16.0,16.0,-12.843791,-24.545272,104.195397,35.86166
+200,CHI,USR,Yak-17,Fighter aircraft,43,China,Soviet Union,0.6,25.8,25.8,-12.843791,-24.545272,104.195397,35.86166
+201,CHI,USR,Yak-17UTI,Trainer aircraft,10,China,Soviet Union,1.5,15.0,15.0,-12.843791,-24.545272,104.195397,35.86166
+202,CHI,USR,Yak-18,Trainer aircraft,450,China,Soviet Union,0.1,45.0,45.0,-12.843791,-24.545272,104.195397,35.86166
+203,CZE,USR,Il-10 Sturmovik,Ground attack ac,600,Czechoslovakia,Soviet Union,1.8,1234.8,1080.0,-12.843791,-24.545272,65.865034,-25.559085
+204,CZE,USR,Yak-11,Trainer aircraft,40,Czechoslovakia,Soviet Union,0.32,12.8,12.8,-12.843791,-24.545272,65.865034,-25.559085
+205,GDR,USR,Hvidbjornen,OPV,1,East Germany (GDR),Soviet Union,6.0,6.0,6.0,-12.843791,-24.545272,65.865034,-25.559085
+206,GDR,USR,Po-2,Trainer aircraft,30,East Germany (GDR),Soviet Union,0.012,0.36,0.36,-12.843791,-24.545272,65.865034,-25.559085
+207,GDR,USR,R-Boot,Minesweeper,6,East Germany (GDR),Soviet Union,3.2,19.2,19.2,-12.843791,-24.545272,65.865034,-25.559085
+208,GDR,USR,Yak-18,Trainer aircraft,30,East Germany (GDR),Soviet Union,0.1,3.0,3.0,-12.843791,-24.545272,65.865034,-25.559085
+209,HUN,USR,BTR-152,APC,160,Hungary,Soviet Union,0.13,20.8,20.8,-12.843791,-24.545272,19.503304,47.162494
+210,HUN,USR,Il-10 Sturmovik,Ground attack ac,150,Hungary,Soviet Union,1.8,270.0,270.0,-12.843791,-24.545272,19.503304,47.162494
+211,HUN,USR,Li-2T/Cab,Transport aircraft,11,Hungary,Soviet Union,2.5,27.5,27.5,-12.843791,-24.545272,19.503304,47.162494
+212,HUN,USR,SU-100,Self-propelled gun,50,Hungary,Soviet Union,1.0,50.0,50.0,-12.843791,-24.545272,19.503304,47.162494
+213,HUN,USR,Yak-18,Trainer aircraft,40,Hungary,Soviet Union,0.1,4.0,4.0,-12.843791,-24.545272,19.503304,47.162494
+214,KON,USR,BA-64B,Reconnaissance AV,200,North Korea,Soviet Union,0.036,7.2,7.2,-12.843791,-24.545272,127.510093,40.339852
+215,KON,USR,BM-13 132mm,Self-propelled MRL,500,North Korea,Soviet Union,0.24,120.0,120.0,-12.843791,-24.545272,127.510093,40.339852
+216,KON,USR,BS-3 100mm,Towed gun,500,North Korea,Soviet Union,0.14,70.0,70.0,-12.843791,-24.545272,127.510093,40.339852
+217,KON,USR,BTR-152,APC,150,North Korea,Soviet Union,0.13,19.5,19.5,-12.843791,-24.545272,127.510093,40.339852
+218,KON,USR,BTR-40,APC,100,North Korea,Soviet Union,0.12,12.0,12.0,-12.843791,-24.545272,127.510093,40.339852
+219,KON,USR,Il-10 Sturmovik,Ground attack ac,50,North Korea,Soviet Union,1.8,90.0,90.0,-12.843791,-24.545272,127.510093,40.339852
+220,KON,USR,La-9,Fighter aircraft,175,North Korea,Soviet Union,0.76,133.0,133.0,-12.843791,-24.545272,127.510093,40.339852
+221,KON,USR,M-43 120mm,Mortar,1000,North Korea,Soviet Union,0.05,50.0,50.0,-12.843791,-24.545272,127.510093,40.339852
+222,KON,USR,MiG-15,Fighter aircraft,100,North Korea,Soviet Union,3.2,320.0,320.0,-12.843791,-24.545272,127.510093,40.339852
+223,KON,USR,ML-20 152mm,Towed gun,100,North Korea,Soviet Union,0.2,20.0,20.0,-12.843791,-24.545272,127.510093,40.339852
+224,KON,USR,P-3/Dumbo,Air search radar,10,North Korea,Soviet Union,3.5,35.0,35.0,-12.843791,-24.545272,127.510093,40.339852
+225,KON,USR,Po-2,Trainer aircraft,15,North Korea,Soviet Union,0.012,0.18,0.18,-12.843791,-24.545272,127.510093,40.339852
+226,KON,USR,Po-2,Trainer aircraft,24,North Korea,Soviet Union,0.012,0.288,0.288,-12.843791,-24.545272,127.510093,40.339852
+227,KON,USR,SU-76,Self-propelled gun,132,North Korea,Soviet Union,0.12,15.84,15.84,-12.843791,-24.545272,127.510093,40.339852
+228,KON,USR,T-34-85,Tank,150,North Korea,Soviet Union,0.95,142.5,142.5,-12.843791,-24.545272,127.510093,40.339852
+229,KON,USR,T-34-85,Tank,500,North Korea,Soviet Union,0.38,190.0,190.0,-12.843791,-24.545272,127.510093,40.339852
+230,KON,USR,Yak-11,Trainer aircraft,10,North Korea,Soviet Union,0.32,3.2,3.2,-12.843791,-24.545272,127.510093,40.339852
+231,KON,USR,Yak-18,Trainer aircraft,50,North Korea,Soviet Union,0.1,5.0,5.0,-12.843791,-24.545272,127.510093,40.339852
+232,KON,USR,Yak-9,Fighter aircraft,175,North Korea,Soviet Union,0.76,133.0,133.0,-12.843791,-24.545272,127.510093,40.339852
+233,KON,USR,Yak-9,Fighter aircraft,24,North Korea,Soviet Union,0.76,18.24,18.24,-12.843791,-24.545272,127.510093,40.339852
+234,POL,USR,Il-10 Sturmovik,Ground attack ac,300,Poland,Soviet Union,1.8,540.0,540.0,-12.843791,-24.545272,19.145136,51.919438
+235,POL,USR,M-1943 160mm,Mortar,100,Poland,Soviet Union,0.15,15.0,15.0,-12.843791,-24.545272,19.145136,51.919438
+236,POL,USR,M-30 122mm,Towed gun,280,Poland,Soviet Union,0.45,126.0,126.0,-12.843791,-24.545272,19.145136,51.919438
+237,POL,USR,Yak-17,Fighter aircraft,3,Poland,Soviet Union,1.5,4.5,4.5,-12.843791,-24.545272,19.145136,51.919438
+238,POL,USR,Yak-17UTI,Trainer aircraft,11,Poland,Soviet Union,1.5,16.5,16.5,-12.843791,-24.545272,19.145136,51.919438
+239,POL,USR,Yak-23,Fighter aircraft,100,Poland,Soviet Union,2.1,210.0,210.0,-12.843791,-24.545272,19.145136,51.919438
+240,ROM,USR,M-1943 160mm,Mortar,75,Romania,Soviet Union,0.15,11.25,11.25,-12.843791,-24.545272,24.96676,45.943161
+241,ROM,USR,Yak-18,Trainer aircraft,20,Romania,Soviet Union,0.1,2.0,2.0,-12.843791,-24.545272,24.96676,45.943161
+242,ISR,XXS,River,Frigate,3,Israel,Unknown supplier(s),11.5,34.5,34.5,-12.843791,-24.545272,34.851612,31.046051
+243,,,,,34281,,,,,,-12.843791,-24.545272,65.865034,-25.559085
