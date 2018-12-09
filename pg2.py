@@ -10,8 +10,8 @@ seventeen_ds = pd.read_csv('edges/2017_edges.csv', sep=',', encoding='iso-8859-1
 
 
 def createData(dataset):
-    targetNodes = list(dataset['Target'].values)
-    sourceNodes = list(dataset['Source'].values)
+    targetNodes = list(set(dataset['Target'].values))
+    sourceNodes = list(set(dataset['Source'].values))
     dictInDegree = {}
     dictOutDegree = {}
 
@@ -25,32 +25,41 @@ def createData(dataset):
         outEdgesCount = len(set(temprow['Target'].values))
         dictOutDegree[sn] = outEdgesCount
 
+    # sn_not_in_dictInDegree = [sn for sn in sourceNodes if sn not in dictInDegree]
+    # for unn in sn_not_in_dictInDegree:
+    #     dictInDegree[unn] = 0
+    #
+    # tn_not_in_dictOutDegree = [tn for tn in targetNodes if tn not in dictOutDegree]
+    # for unn in tn_not_in_dictOutDegree:
+    #     dictOutDegree[unn] = 0
+
+
     in_values = sorted(set(dictInDegree.values()))
-    in_hist = [dictInDegree.values().count(x) for x in in_values]
+    in_hist = [list(dictInDegree.values()).count(x) for x in in_values]
 
     out_values = sorted(set(dictOutDegree.values()))
-    out_hist = [dictOutDegree.values().count(x) for x in out_values]
+    out_hist = [list(dictOutDegree.values()).count(x) for x in out_values]
 
     return in_values, in_hist, out_values, out_hist
 
 
-# zero_in_values, zero_in_hist, zero_out_values, zero_out_hist = createData(zero_ds)
-# ten_in_values, ten_in_hist, ten_out_values, ten_out_hist = createData(ten_ds)
-# seventeen_in_values, seventeen_in_hist, seventeen_out_values, seventeen_out_hist = createData(seventeen_ds)
+zero_in_values, zero_in_hist, zero_out_values, zero_out_hist = createData(zero_ds)
+ten_in_values, ten_in_hist, ten_out_values, ten_out_hist = createData(ten_ds)
+seventeen_in_values, seventeen_in_hist, seventeen_out_values, seventeen_out_hist = createData(seventeen_ds)
 
 '''
 Plot in-degree distribution
 '''
-# plt.figure()
-# plt.plot(zero_in_values,zero_in_hist,'ro-') # in-degree 2000
-# plt.plot(ten_in_values,ten_in_hist,'bx-') # in-degree 2010
-# plt.plot(seventeen_in_values,seventeen_in_hist,'gv-') # in-degree 2017
-# plt.legend(['2000', '2010', '2017'])
-# plt.xlabel('Degree')
-# plt.ylabel('Number of nodes')
-# plt.title('In-Degree distribution')
-# plt.tight_layout()
-# plt.show()
+plt.figure()
+plt.plot(zero_in_values,zero_in_hist,'ro-') # in-degree 2000
+plt.plot(ten_in_values,ten_in_hist,'bx-') # in-degree 2010
+plt.plot(seventeen_in_values,seventeen_in_hist,'gv-') # in-degree 2017
+plt.legend(['2000', '2010', '2017'])
+plt.xlabel('Degree')
+plt.ylabel('Number of nodes')
+plt.title('In-Degree distribution')
+plt.tight_layout()
+plt.show()
 
 '''
 Plot out-degree distribution
